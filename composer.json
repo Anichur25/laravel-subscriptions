@@ -12,6 +12,12 @@
         "subscription"
     ],
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Anichur25/laravel-support"
+        }
+    ],
     "homepage": "https://rinvex.com",
     "support": {
         "email": "help@rinvex.com",
@@ -34,12 +40,6 @@
         {
             "name": "The Generous Laravel Community",
             "homepage": "https://github.com/rinvex/laravel-subscriptions/contributors"
-        }
-    ],
-     "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/Anichur25/laravel-support"
         }
     ],
     "require": {
