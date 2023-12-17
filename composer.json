@@ -15,7 +15,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/Anichur25/laravel-support"
+            "url": "https://github.com/Anichur25/laravel-support.git"
         }
     ],
     "homepage": "https://rinvex.com",
