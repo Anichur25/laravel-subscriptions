@@ -12,12 +12,6 @@
         "subscription"
     ],
     "license": "MIT",
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/Anichur25/laravel-support.git"
-        }
-    ],
     "homepage": "https://rinvex.com",
     "support": {
         "email": "help@rinvex.com",
@@ -47,7 +41,7 @@
         "illuminate/console": "^9.0.0 || ^10.0.0",
         "illuminate/database": "^9.0.0 || ^10.0.0",
         "illuminate/support": "^9.0.0 || ^10.0.0",
-        "rinvex/laravel-support":"dev-master",
+        "rinvex/laravel-support":"^7.3.1",
         "spatie/eloquent-sortable": "^4.0.0",
         "spatie/laravel-sluggable": "^3.3.0",
         "spatie/laravel-translatable": "^6.5.3"
